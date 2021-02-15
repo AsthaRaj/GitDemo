@@ -8,6 +8,9 @@ public class APITest {
 		System.out.println("RPATest");
 		System.out.println("Testing Git");
 		System.out.println("Validating Git");
+		System.out.println("Validating Git1");
+		System.out.println("Validating Git2");
+		
 	}
 	
 

@@ -9,6 +9,7 @@ public class SeleniumTest {
 	public void testMethod()
 	{
 		System.out.println("testMethod");
+		System.out.println("Validating Git in this method");
 	}
 	
 	@Test
