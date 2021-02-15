@@ -6,6 +6,8 @@ public class APITest {
 	@Test
 	public void RPAtest() {
 		System.out.println("RPATest");
+		System.out.println("Testing Git");
+		System.out.println("Validating Git");
 	}
 	
 
