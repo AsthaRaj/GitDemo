@@ -19,4 +19,11 @@ public class SeleniumTest {
 		System.out.println("setData");
 	}
 
+	
+@Test
+	
+	public void setData2()
+	{
+		System.out.println("setData");
+	}
 }

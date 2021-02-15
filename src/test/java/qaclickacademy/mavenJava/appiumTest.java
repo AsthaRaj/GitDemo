@@ -10,5 +10,12 @@ public class appiumTest {
 	{
 		System.out.println("testappium");
 	}
+	
+@Test
+	
+	public void test2()
+	{
+		System.out.println("testappium");
+	}
 
 }
